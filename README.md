@@ -6,7 +6,7 @@ this is academic machine learning project inspired from edureka
 First clone the repository from Github and switch to the new directory:
 
     $ git clone https://github.com/ahsaan-habib/Emotion-Detection.git
-    $ cd {{ Emotion-Detection }}
+    $ cd Emotion-Detection
     
 To run each project follow the following steps:
 
